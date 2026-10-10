@@ -1,4 +1,4 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for *Leah Vann*, *lvann@uci.edu*--
 
 A reminder on academic integrity, as described in the syllabus.
 
@@ -43,7 +43,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-
+- https://www.w3schools.com/cssref/index.php
+I used this 
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
