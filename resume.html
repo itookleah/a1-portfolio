@@ -11,15 +11,24 @@ EMAIL: lvann@uci.edu
   <meta name="author" content="Leah Vann">
   <meta name="description" content="description of your page">
    <!-- you would link to an external stylesheet here! -->
+    <link rel="stylesheet" href="index.css">
    <!-- you would also link to Bootstrap here! -->
   <title>Leah Vann's Resume</title>
 </head>
 <body>
 
-<div>
+<nav>
+  <ul class="navigation">
+    <li class="navitem"><a href="index.html">Home</a></li>
+    <li class="navitem"><a href="resume.html">Resume</a></li>
+    <li class="navitem"><a href="aboutme.html">About Me</a></li>
+  </ul>
+</nav>
 
-  <h1>Leah Vann's Resume</h1>
+<div class="resume-container">
 
+  <h1 class="resume">Leah Vann's Resume</h1>
+  <hr>
   <!--Listing of Skills-->
   <div>
     <h2>Skills</h2>
@@ -29,11 +38,15 @@ EMAIL: lvann@uci.edu
       </ul>
   </div>
 
+  <hr>
   <!--Listing of Experience activities-->
   <div>
     <h2>Experience</h2>
+      <h3>Pet Sitter</h3>
+      <h3>Mekong Market</h3>
   </div>
 
+  <hr>
   <!--Listing of Projects-->
   <div>
     <h2>Projects</h2>
@@ -60,8 +73,8 @@ EMAIL: lvann@uci.edu
           <li>Created a fully functional comment system for users to interact with each other.</li>
           <li>Researched harmful effects of fast fashion and educated users on better alternatives.</li>
         </ul>
-  </div>
-
+    
+  <hr>
   <!--Listing of Extracurricular and Leadership activities-->
   <div>
     <h2>
@@ -82,16 +95,15 @@ EMAIL: lvann@uci.edu
           <li>Collaborated with board members for club activities, fundraisers, and social events.</li>
         </ul>
   </div>
+</div>
 
-
-  <p>
+  <footer>
+    <p>Contact Me: lvann@uci.edu</p>
+    <p>
     <a href="http://validator.w3.org/check?uri=referer">
        W3C validator
     </a>
-  </p>
-
-  <footer>
-    Contact: lvann@uci.edu
+    </p>
   </footer>
 
 </body>

@@ -22,7 +22,9 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+1. Multiple pages where you can navigate between each of them. 
+2. Inlcuded a footer with contact information. 
+3. Image of myself.
 
 
 (b) CSS features
@@ -30,7 +32,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (c) Advanced features
-
+1. I used the references specified below to create a NavBar to navigate between the different pages of my portfolio. 
 
 
 
@@ -43,8 +45,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-- https://www.w3schools.com/cssref/index.php
-I used this 
+- https://www.w3schools.com/css/default.asp 
+I used this to help me figure out how to create unqiue elements and advanced feature such as my navigation bar.
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
