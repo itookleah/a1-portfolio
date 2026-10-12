@@ -28,6 +28,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (b) CSS features
+1. I added padding to the text boxes so that the text would not be connected to the border of the containers.
+2. I used css to change the colors of the portfolio so that it had some of my own personal touches, but I also chose to have the text in white background boxes to not disrupt readability.
 
 
 

@@ -6,11 +6,34 @@ footer {
     text-align: center;
 }
 
+img {
+    max-width: 10%;
+    height: auto;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head-center {
+    text-align: center;
+    font-size: 36px;
+}
+
+.head2-center {
+    text-align: center;
+    font-size: 30px;
+}
+
 .container {
     background-color: white;
     border-style: solid;
     border-width: 1px;
     padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .navigation {
@@ -44,4 +67,13 @@ footer {
 .resume-container {
     background: white;
     padding: 1in;
+}
+
+.basic-text {
+    text-align: center;
+    font-size: 18px;
+}
+
+.basic-text-notcent {
+    font-size: 18px;
 }
