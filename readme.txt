@@ -10,14 +10,14 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+10/10
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 2/2 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
@@ -30,6 +30,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 (b) CSS features
 1. I added padding to the text boxes so that the text would not be connected to the border of the containers.
 2. I used css to change the colors of the portfolio so that it had some of my own personal touches, but I also chose to have the text in white background boxes to not disrupt readability.
+3. Modified text size to enhance readability of each page. 
 
 
 
@@ -39,21 +40,23 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-
+I did not ignore any warnings.
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+~6 hours
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 - https://www.w3schools.com/css/default.asp 
 I used this to help me figure out how to create unqiue elements and advanced feature such as my navigation bar.
+- https://www.w3schools.com/html/default.asp 
+I used this to learn more HTML tags that would be useful for my project and also understand what certain tags did.
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+I did not consult anyone for this assignment.
 
 
 7. Is there anything special we need to know in order to run your code?
-
+No

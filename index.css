@@ -11,6 +11,10 @@ img {
     height: auto;
 }
 
+p {
+    font-size: 16px;
+}
+
 .img-container {
     display: flex;
     justify-content: center;
@@ -71,9 +75,5 @@ img {
 
 .basic-text {
     text-align: center;
-    font-size: 18px;
-}
-
-.basic-text-notcent {
-    font-size: 18px;
+    font-size: 16px;
 }
